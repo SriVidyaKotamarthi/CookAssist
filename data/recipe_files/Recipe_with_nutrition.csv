@@ -1,0 +1,138 @@
+recipe_shrt_name,recipe_id,recipe_name,preparation_time,preparation_time_unit,cook_time,cook_time_unit,total_time,total_time_unit,cuisine,course,diet,difficulty_level,rating,nutrition
+Aloo Paratha,aloo-paratha-recipe-aloo-ka-paratha,Aloo Paratha Recipe (Aloo Ka Paratha),20,mins,30,mins,50,mins,"Indian, Punjabi",Breakfast,Vegetarian,Moderate,4.91,Calories 154
+Onion Paratha,onion-paratha,Onion Paratha,10,mins,20,mins,50,mins,"North Indian, Punjabi",Breakfast,"Vegan, Vegetarian",Easy,4.95,Calories 158
+Sweet Dalia,,Sweet Daliya Recipe,5,mins,25,mins,30,mins,"North Indian, Punjabi",Sweets,,,4.88,Calories 437
+Sweet Dalia,,Sweet Daliya Recipe,5,mins,25,mins,30,mins,"North Indian, Punjabi",Sweets,,,4.88,Calories 236
+Plain Paratha,paratha-recipe-indian-flatbread-recipe,Paratha Recipe (Indian Flatbread Recipe),35,mins,30,mins,5,mins,Indian,Breakfast,Vegetarian,Moderate,4.88,Calories 374
+Wheat Dosa,wheat-dosa-godhuma-dosa-atta-dosa,Wheat Dosa | Godhuma Dosa | Atta Dosa,5,mins,20,mins,25,mins,South Indian,"Breakfast, Snacks","Vegan, Vegetarian",Moderate,4.91,Calories 319
+Whole Wheat Pancakes,eggless-pancake-recipe-whole-wheat-pancakes,Eggless Pancake Recipe | Whole Wheat Pancakes,5,mins,10,mins,15,mins,"American, World","Breakfast, Snacks",Vegetarian,Easy,4.97,Calories 164
+Whole Wheat Waffles,,Whole Wheat Waffles,5,mins,20,mins,25,mins,World,"Breakfast, Snacks",Vegetarian,Easy,4.95,Calories 155
+Ajwain Paratha,,Ajwain Paratha,20,mins,30,mins,50,mins,North Indian,Breakfast,Vegetarian,Easy,4.67,Calories 136
+Jeera Paratha,,Ajwain Paratha,20,mins,30,mins,50,mins,North Indian,Breakfast,Vegetarian,Easy,4.67,Calories 136
+Dal Paratha,,Dal Paratha,,,40,mins,40,mins,"North Indian, Punjabi","Breakfast, Brunch",Vegetarian,Easy,5,Calories 181
+Sugar Paratha,,Sweet Paratha (Chini Ka Paratha),30,mins,30,mins,,,North Indian,Breakfast,Vegetarian,Moderate,4.8,Calories 217
+Masala Paratha,,Masala Paratha | Masala Roti,35,mins,25,mins,,,North Indian,"Breakfast, Main Course",Vegetarian,Moderate,5,Calories 164
+Roti (Phulka),roti-recipe-chapati-recipe-phulka-recipe,Roti Recipe | Chapati Recipe | Phulka Recipe,10,mins,30,mins,10,mins,Indian,Main Course,"Vegan, Vegetarian",Moderate,4.94,Calories 90
+Poori,poori-recipe-puri,Poori Recipe | Puri,10,mins,30,mins,40,mins,Indian,Breakfast,"Vegan, Vegetarian",Moderate,4.8,Calories 90
+Masala Poori,,Masaledar Poori | Masala Poori,35,mins,30,mins,5,mins,"Gujarati, Maharashtrian","Breakfast, Main Course, Snacks",Vegetarian,Moderate,4.5,Calories 92
+Butter Naan,,Butter Naan (Without Tandoor),,,30,mins,30,mins,North Indian,Main Course,,,5,Calories 144
+Gulgule,gulgule-recipe,Gulgule Recipe,5,mins,20,mins,25,mins,Punjabi,Breakfast,Vegan,Easy,5,Calories 255
+Wheat Nankhatai,,Whole Wheat Nankhatai,5,mins,25,mins,30,mins,North Indian,Snacks,,,4.82,Calories 198
+Wheat Ladoo,atta-laddu-wheat-ladoo,Atta Laddu | Wheat Ladoo,5,mins,10,mins,15,mins,"North Indian, Punjabi",Sweets,Vegetarian,Moderate,4.89,Calories 124
+Panjiri,,Panjiri,5,mins,20,mins,25,mins,"North Indian, Punjabi",Sweets,,,4.88,Calories 474
+Wheat Halwa,,Wheat Halwa,5,mins,10,mins,15,mins,North Indian,"Desserts, Sweets",,,4.96,Calories 711
+Kada Prashad,,Kada Prashad Recipe,5,mins,25,mins,30,mins,"North Indian, Punjabi","Desserts, Sweets",,,4.91,Calories 495
+Pita Bread,pita-bread,Pita Bread,30,mins,30,mins,,,"Lebanese, World","Breakfast, Brunch",Vegan,Moderate,4.87,Calories 151
+Tandoori Roti,tandoori-roti-butter-roti-2-ways,Tandoori Roti (Butter Roti) – 2 Ways,10,mins,30,mins,10,mins,"North Indian, Punjabi",Main Course,Vegetarian,Moderate,5,Calories 107
+Baked Aloo Samosa,,Baked Vegan Samosa,35,mins,35,mins,10,mins,"North Indian, Punjabi",Snacks,,,4.89,Calories 114
+Rava Upma,upma-recipe-rava-upma-suji-ka-upma,Upma Recipe | Rava Upma | Suji Ka Upma,15,mins,15,mins,30,mins,"Indian, South Indian","Breakfast, Brunch",Vegetarian,Easy,4.88,Calories 360
+Rava Dosa,rava-dosa-suji-ka-dosa,Rava Dosa | Suji Ka Dosa,5,mins,25,mins,30,mins,South Indian,Breakfast,Vegan,Easy,4.94,Calories 102
+Rava Idli,rava-idli-suji-ki-idli,Rava Idli | Suji Ki Idli,35,mins,12,mins,47,mins,South Indian,"Breakfast, Brunch",Vegetarian,Easy,4.86,Calories 104
+Rava Chilla,,Suji Ka Cheela,30,mins,20,mins,50,mins,North Indian,"Breakfast, Snacks",,,5,Calories 907
+Rava Dhokla,,Rava Dhokla | Suji Ka Dhokla,15,mins,20,mins,35,mins,Gujarati,Snacks,"Vegan, Vegetarian",Moderate,4.97,Calories 196
+Rava Pongal,,Rava Pongal,15,mins,15,mins,30,mins,South Indian,Breakfast,,,5,Calories 456
+Sooji Halwa,suji-ka-halwa-sheera-recipe,Suji Ka Halwa | Sheera Recipe,1,min,14,mins,15,mins,"Maharashtrian, North Indian",Sweets,Vegetarian,Easy,4.91,Calories 344
+Rava Kesari,kesari-recipe,Kesari Recipe,10,mins,15,mins,25,mins,"South Indian, Tamil Nadu","Desserts, Sweets",Vegetarian,Moderate,4.87,Calories 349
+Rava Ladoo,rava-laddu-suji-ke-laddu,Rava Laddu | Suji Ke Laddu,5,mins,25,mins,30,mins,"Indian, Maharashtrian","Desserts, Sweets",Vegetarian,Moderate,4.92,Calories 154
+Rava Kichadi,,Rava Kichadi,5,mins,15,mins,20,mins,South Indian,Breakfast,Vegetarian,Easy,4.88,Calories 376
+Rava Uttapam,,Rava Uttapam | Sooji Uttapam,30,mins,15,mins,45,mins,Indian,Snacks,Vegan,Easy,4.94,Calories 382
+Onion Rava Dosa,,Onion Rava Dosa,25,mins,20,mins,45,mins,South Indian,Breakfast,"Vegan, Vegetarian",Easy,4.9,Calories 181
+Butter Rava Dosa,rava-dosa-suji-ka-dosa,Rava Dosa | Suji Ka Dosa,5,mins,25,mins,30,mins,South Indian,Breakfast,Vegan,Easy,4.94,Calories 102
+Kesari bath,,Kesari Bath,5,mins,15,mins,20,mins,"Karnataka, South Indian",Sweets,,,4.88,Calories 876
+Sooji Kheer,,Sooji Kheer | Semolina Pudding,2,mins,18,mins,20,mins,North Indian,"Desserts, Sweets",Vegetarian,Easy,4.72,Calories 282
+Milk Kesari,,Rava Kesari With Milk,15,mins,15,mins,30,mins,South Indian,"Desserts, Sweets",,,4.67,Calories 598
+Neer Dosa,neer-dosa-neer-dose,Neer Dosa | Neer Dose,,,30,mins,30,mins,"Karnataka, South Indian",Breakfast,"Gluten Free, Vegan",Moderate,4.82,Calories 55
+Ghee Rice,ghee-rice-recipe,Ghee Rice Recipe,30,mins,20,mins,50,mins,South Indian,Main Course,"Gluten Free, Vegetarian",Easy,4.96,Calories 619
+Jeera Rice,,Jeera Rice,30,mins,25,mins,55,mins,North Indian,Main Course,,,4.95,Calories 324
+Potato Rice,,Potato Rice | Potato Pulao,30,mins,12,mins,42,mins,South Indian,Main Course,"Gluten Free, Vegan, Vegetarian",Moderate,4.75,Calories 564
+Curd Rice,,Curd Rice,15,mins,5,mins,20,mins,"South Indian, Tamil Nadu","Main Course, Side Dish",,,4.98,Calories 230
+Matar Pulao,peas-pulao-matar-pulao,Peas Pulao | Matar Pulao,10,mins,15,mins,25,mins,"Indian, Punjabi",Main Course,"Gluten Free, Vegan, Vegetarian",Easy,4.96,Calories 364
+Tamarind Rice,,Tamarind Rice,30,mins,30,mins,,,"South Indian, Tamil Nadu",Main Course,,,4.9,Calories 555
+Saffron Rice,saffron-rice-yellow-rice,Saffron Rice | Yellow Rice,30,mins,10,mins,40,mins,Indian,Main Course,"Gluten Free, Vegetarian",Easy,5,Calories 481
+Ven Pongal,ven-pongal-recipe,Ven Pongal Recipe,5,mins,20,mins,25,mins,"South Indian, Tamil Nadu",Breakfast,Vegetarian,Easy,4.95,Calories 285
+Sweet Pongal,sweet-pongal-sakkarai-pongal,Sweet Pongal | Sakkarai Pongal,5,mins,15,mins,20,mins,"South Indian, Tamil Nadu",Sweets,"Gluten Free, Vegetarian",Easy,4.84,Calories 412
+Kuska Rice (Plain Biryani),,Kuska Recipe,30,mins,15,mins,45,mins,South Indian,Main Course,,,4.86,Calories 481
+Ney Choru - Kerala Style Ghee Rice,,Nei Choru (Kerala Style),15,mins,25,mins,40,mins,"Kerala, South Indian",Main Course,"Gluten Free, Vegetarian",Easy,5,Calories 423
+Rice Kheer,kheer-recipe-rice-kheer,Kheer Recipe | Rice Kheer,20,mins,30,mins,50,mins,North Indian,"Desserts, Sweets","Gluten Free, Vegetarian",Easy,4.85,Calories 140
+Rice Pudding,kheer-recipe-rice-kheer,Kheer Recipe | Rice Kheer,20,mins,30,mins,50,mins,North Indian,"Desserts, Sweets","Gluten Free, Vegetarian",Easy,4.85,Calories 140
+Parsi Brown Rice,parsi-brown-rice,Parsi Brown Rice,5,mins,15,mins,40,mins,Parsi,Main Course,"Gluten Free, Vegetarian",Moderate,5,Calories 289
+Phirni,phirni-recipe-firni,Phirni Recipe | Firni,5,mins,25,mins,30,mins,"North Indian, Punjabi","Desserts, Sweets","Gluten Free, Vegetarian",Easy,4.96,Calories 172
+Paal Payasam,,Paal Payasam | Rice Payasam,10,mins,50,mins,,,"South Indian, Tamil Nadu","Desserts, Sweets","Gluten Free, Vegetarian",Moderate,5,Calories 276
+Curd Dosa,,Poha Dosa | Atukula Dosa,20,mins,30,mins,50,mins,South Indian,Breakfast,Vegetarian,Moderate,4.88,Calories 111
+Onion Poha,kanda-batata-poha,Kanda Batata Poha,10,mins,20,mins,30,mins,"Indian, Maharashtrian",Breakfast,"Gluten Free, Vegan",Easy,4.84,Calories 264
+Onion Poha,kanda-batata-poha,Kanda Batata Poha,10,mins,20,mins,30,mins,"Indian, Maharashtrian",Breakfast,"Gluten Free, Vegan",Easy,4.84,Calories 258
+Potato Poha,kanda-batata-poha,Kanda Batata Poha,10,mins,20,mins,30,mins,"Indian, Maharashtrian",Breakfast,"Gluten Free, Vegan",Easy,4.84,Calories 264
+Potato Poha,kanda-batata-poha,Kanda Batata Poha,10,mins,20,mins,30,mins,"Indian, Maharashtrian",Breakfast,"Gluten Free, Vegan",Easy,4.84,Calories 258
+Paper Dosa,,Paper Dosa,,,20,mins,20,mins,South Indian,"Breakfast, Snacks",,,4.94,Calories 443
+Chura Matar,,Chura Matar Recipe,10,mins,15,mins,25,mins,"North Indian, Uttar Pradesh","Breakfast, Snacks",Vegan,Moderate,5,Calories 393
+Sweet Poha,kanda-batata-poha,Kanda Batata Poha,10,mins,20,mins,30,mins,"Indian, Maharashtrian",Breakfast,"Gluten Free, Vegan",Easy,4.84,Calories 264
+Sweet Poha,kanda-batata-poha,Kanda Batata Poha,10,mins,20,mins,30,mins,"Indian, Maharashtrian",Breakfast,"Gluten Free, Vegan",Easy,4.84,Calories 258
+Onion Potato Poha,kanda-batata-poha,Kanda Batata Poha,10,mins,20,mins,30,mins,"Indian, Maharashtrian",Breakfast,"Gluten Free, Vegan",Easy,4.84,Calories 264
+Onion Potato Poha,kanda-batata-poha,Kanda Batata Poha,10,mins,20,mins,30,mins,"Indian, Maharashtrian",Breakfast,"Gluten Free, Vegan",Easy,4.84,Calories 258
+Idli,idli-recipe-idli-batter-for-soft-idli,Idli Recipe | Idli Batter For Soft Idli,,,25,mins,25,mins,South Indian,"Breakfast, Snacks","Gluten Free, Vegan, Vegetarian",Moderate,4.87,Calories 38
+Uttapam,,Uttapam Recipe,,,30,mins,30,mins,South Indian,Breakfast,"Gluten Free, Vegan, Vegetarian",Moderate,4.75,Calories 262
+Sada Dosa,dosa-recipe-dosa-batter-recipe,Dosa Recipe | Dosa Batter Recipe,,,30,mins,30,mins,South Indian,Breakfast,"Gluten Free, Vegan, Vegetarian",Moderate,4.88,Calories 74
+Crispy Dosa,dosa-recipe-dosa-batter-recipe,Dosa Recipe | Dosa Batter Recipe,,,30,mins,30,mins,South Indian,Breakfast,"Gluten Free, Vegan, Vegetarian",Moderate,4.88,Calories 74
+Masala Dosa,masala-dosa,Masala Dosa,,,30,mins,30,mins,South Indian,"Breakfast, Snacks","Vegan, Vegetarian",Moderate,4.84,Calories 111
+Kanchipuram Idli,,Kanchipuram Idli,,,20,mins,20,mins,"South Indian, Tamil Nadu",Breakfast,,,4.91,Calories 336
+Andhra Style Idli,,Andhra Style Idli (With Rice Rava),,,12,mins,12,mins,"Andhra, South Indian","Breakfast, Brunch",,,4.88,Calories 84
+Cooked Rice Idli,leftover-rice-idli-cooked-rice-idli,Leftover Rice Idli | Cooked Rice Idli,,,12,mins,12,mins,South Indian,"Breakfast, Snacks","Gluten Free, Vegan",Moderate,4.82,Calories 92
+Paniyaram,,Paniyaram Recipe (Kuzhi Paniyaram),5,mins,30,mins,35,mins,South Indian,Breakfast,"Vegan, Vegetarian",Moderate,4.92,Calories 280
+Onion Uttapam,,Uttapam Recipe,,,30,mins,30,mins,South Indian,Breakfast,"Gluten Free, Vegan, Vegetarian",Moderate,4.75,Calories 262
+Onion Tomato Uttapam,,Uttapam Recipe,,,30,mins,30,mins,South Indian,Breakfast,"Gluten Free, Vegan, Vegetarian",Moderate,4.75,Calories 262
+Churumuri - Karnataka,,Churumuri Recipe,5,mins,5,mins,10,mins,Karnataka,"Brunch, Snacks",Vegan,Easy,5,Calories 285
+Easy Puffed Rice Recipe,,Puffed Rice Recipe | Murmura Recipe,1,min,4,mins,5,mins,"Gujarati, Indian",Snacks,Vegan,Easy,5,Calories 127
+Jhal Muri - Kolkata,,Jhal Muri,10,mins,5,mins,15,mins,"Bengali, Indian Street Food",Snacks,,,5,Calories 172
+Bhel Puri - Mumbai,bhel-puri-bhel-recipe,Bhel Puri (Bhel Recipe),15,mins,15,mins,30,mins,Indian Street Food,Snacks,"Vegan, Vegetarian",Easy,4.96,Calories 251
+Akki Roti - Karnataka Cuisine,akki-roti-rice-roti,Akki Roti (Rice Roti),15,mins,30,mins,45,mins,Karnataka,Breakfast,"Vegan, Vegetarian",Moderate,4.91,Calories 335
+Wheat Paniyaram,,Wheat Appam,15,mins,20,mins,35,mins,South Indian,Sweets,,,4.82,Calories 56
+No Grind Easy Dosa,,No Grind Easy Dosa,,,30,mins,30,mins,South Indian,Breakfast,,,4.85,Calories 456
+Besan Chilla,besan-chilla-chilla-recipe-gram-flour-pancakes,Besan Chilla | Chilla Recipe (Gram Flour Pancakes),10,mins,20,mins,30,mins,"North Indian, Punjabi",Breakfast,"Gluten Free, Vegan, Vegetarian",Easy,4.81,Calories 108
+Missi Roti,missi-roti,Missi Roti,15,mins,15,mins,30,mins,"North Indian, Punjabi",Breakfast,Vegetarian,Easy,5,Calories 622
+Besan Halwa,besan-ka-halwa,Besan Ka Halwa,5,mins,25,mins,30,mins,Indian,Desserts,Vegetarian,Moderate,4.84,Calories 666
+Gatte ki Sabji,,Gatte Ki Sabji,25,mins,20,mins,45,mins,Rajasthani,Main Course,,,5,Calories 325
+Besan Ladoo,besan-ladoo-besan-ke-laddu,Besan Ladoo (Besan Ke Laddu),5,mins,25,mins,30,mins,North Indian,Sweets,"Gluten Free, Vegetarian",Moderate,4.92,Calories 155
+Moong Dal Dosa,,Pesarattu | Moong Dal Dosa,,,30,mins,30,mins,"Andhra, South Indian",Breakfast,"Vegan, Vegetarian",Easy,4.94,Calories 80
+Moong Dal Khichdi,khichdi-recipe-moong-dal-khichdi,Khichdi Recipe | Moong Dal Khichdi,30,mins,10,mins,40,mins,Indian,Main Course,"Vegan, Vegetarian",Moderate,4.75,Calories 482
+Moong Dal Fry,moong-dal-recipe-moong-dal-fry-and-tadka,Moong Dal Recipe | Moong Dal Fry And Tadka,5,mins,30,mins,35,mins,"Indian, North Indian",Main Course,Vegetarian,Moderate,4.91,Calories 185
+Moong Dal Tadka,moong-dal-recipe-moong-dal-fry-and-tadka,Moong Dal Recipe | Moong Dal Fry And Tadka,5,mins,30,mins,35,mins,"Indian, North Indian",Main Course,Vegetarian,Moderate,4.91,Calories 185
+Moong Dal Chilla,moong-dal-chilla-indian-mung-bean-pancake,Moong Dal Chilla (Indian Mung Bean Pancake),,,30,mins,30,mins,"Indian, North Indian","Side Dish, Snacks",Vegan,Moderate,4.95,Calories 84
+Moong Dal Halwa,,Moong Dal Halwa,,,,,,,North Indian,Desserts,,,4.89,Calories 555
+Mixed Sprouts Curry,,Sprouts Curry,15,mins,20,mins,35,mins,North Indian,"Main Course, Side Dish",,,4.8,Calories 124
+Parippu Curry,,Parippu Curry,5,mins,20,mins,25,mins,"Kerala, South Indian",Main Course,,,5,Calories 174
+Pasi paruppu payasam,,Pasi Paruppu Payasam,15,mins,5,mins,20,mins,South Indian,Sweets,,,4.73,Calories 646
+Dhokla,,Chana Dal Dhokla (Vati Dal Dhokla),5,mins,15,mins,20,mins,Gujarati,"Side Dish, Snacks, Starters",,Moderate,4.93,Calories 276
+Cholar Dal - Bengali Cuisine,cholar-dal-recipe,Cholar Dal Recipe,30,mins,30,mins,,,Bengali,Main Course,Vegetarian,Moderate,4.5,Calories 266
+Chana Dal Khichdi - Punjabi,,Chana Dal Khichdi,30,mins,20,mins,50,mins,"North Indian, Punjabi",Main Course,Vegan,Moderate,5,Calories 381
+Chana Dal Fry,chana-dal-authentic-north-indian-recipe,Chana Dal (Authentic North Indian Recipe),10,mins,20,mins,30,mins,North Indian,Main Course,"Vegan, Vegetarian",Moderate,4.92,Calories 272
+Chana Dal Sundal,,Chana Dal Sundal,,,35,mins,35,mins,"South Indian, Tamil Nadu","Side Dish, Snacks",,,5,Calories 120
+Langarwali Dal - Amritsari Dal,,Amritsari Dal | Langarwali Dal,10,mins,45,mins,55,mins,"Indian, Punjabi",Main Course,"Gluten Free, Vegetarian",Moderate,5,Calories 285
+Maah Chole di Dal,maa-chole-di-dal,Maa Chole Di Dal,30,mins,20,mins,50,mins,"North Indian, Punjabi",Main Course,"Vegan, Vegetarian",Moderate,4.89,Calories 235
+Chana Dal Payasam,,Chana Dal Payasam,30,mins,25,mins,,,"Kerala, South Indian",Desserts,,,5,Calories 463
+Dal Bukhara,dal-bukhara-recipe,Dal Bukhara Recipe,,,,,,,"North Indian, Punjabi",Main Course,"Gluten Free, Vegetarian",Moderate,4.85,Calories 339
+Dal Makhani,dal-makhani,Dal Makhani,,,,,,,"North Indian, Punjabi",Main Course,"Gluten Free, Vegetarian",Easy,4.91,Calories 308
+Urad Dal Dosa,,Urad Dal Dosa,20,mins,20,mins,40,mins,South Indian,Breakfast,"Gluten Free, Vegan",Moderate,5,Calories 247
+Urad Dal Ladoo,sunnundalu-recipe-urad-dal-laddu,Sunnundalu Recipe | Urad Dal Laddu,5,mins,12,mins,17,mins,"Andhra, South Indian",Sweets,"Gluten Free, Vegetarian",Moderate,5,Calories 154
+Kali Dal,,Maa Ki Dal | Kali Dal | Black Gram Dal | Sabut Urad Dal,35,mins,25,mins,,,"Indian, Punjabi",Main Course,Vegetarian,Moderate,4.91,Calories 211
+Sukhi Urad Dal (Dry Version),,Dry Urad Dal Recipe,,,10,mins,10,mins,"North Indian, Punjabi",Side Dish,,,5,Calories 301
+Dal Fry Restaurant Style,dal-fry-recipe-dal-recipe-restaurant-style,Dal Fry Recipe | Dal Recipe (Restaurant Style),15,mins,10,mins,25,mins,Indian,Main Course,"Vegan, Vegetarian",Moderate,4.89,Calories 120
+Dal Tadka Restaurant Style,instant-pot-dal-tadka,Instant Pot Dal Tadka,15,mins,15,mins,30,mins,North Indian,Main Course,,Easy,4.93,Calories 213
+Dal Tadka Restaurant Style,instant-pot-dal-tadka,Instant Pot Dal Tadka,15,mins,15,mins,30,mins,North Indian,Main Course,,Easy,4.93,Calories 193
+Gujarati Dal,gujarati-dal-recipe,Gujarati Dal Recipe,20,mins,20,mins,40,mins,Gujarati,Main Course,Vegan,Moderate,4.91,Calories 191
+Gujarati Surati Dal,,Surati Dal,15,mins,15,mins,30,mins,"Gujarati, Indian",Main Course,Vegetarian,Moderate,5,Calories 535
+Punjabi Arhar Dal fry,,Arhar Dal,20,mins,15,mins,35,mins,"North Indian, Punjabi",Main Course,Vegetarian,Moderate,4.86,Calories 158
+Maharashtrian Varan Bhaat,,Goan Varan Bhaat With Coconut,10,mins,15,mins,25,mins,Goan,Main Course,"Vegan, Vegetarian",Easy,4.67,Calories 339
+Maharashtrian Varan Bhaat,,Goan Varan Bhaat With Coconut,10,mins,15,mins,25,mins,Goan,Main Course,"Vegan, Vegetarian",Easy,4.67,Calories 0
+Goan Varan Bhaat,,Goan Varan Bhaat With Coconut,10,mins,15,mins,25,mins,Goan,Main Course,"Vegan, Vegetarian",Easy,4.67,Calories 339
+Goan Varan Bhaat,,Goan Varan Bhaat With Coconut,10,mins,15,mins,25,mins,Goan,Main Course,"Vegan, Vegetarian",Easy,4.67,Calories 0
+Konkani Dali Toye,,Dali Toye,5,mins,25,mins,30,mins,"Goan, Karnataka, Konkani & Malvani",Main Course,,,4.72,Calories 155
+Adai,,Adai Recipe | Adai Dosa,10,mins,30,mins,40,mins,"South Indian, Tamil Nadu","Breakfast, Main Course, Snacks",,,5,Calories 355
+Gujarati Trevti Dal,gujarati-dal-recipe,Gujarati Dal Recipe,20,mins,20,mins,40,mins,Gujarati,Main Course,Vegan,Moderate,4.91,Calories 191
+Mixed Dal Dosa,,Mixed Dal Dosa,,,30,mins,30,mins,South Indian,Breakfast,Vegan,Moderate,4.91,Calories 349
+Dhaba Style Dal Fry,,Dhaba Dal (Made With 5 Lentils),25,mins,20,mins,45,mins,"North Indian, Punjabi",Main Course,"Vegan, Vegetarian",Moderate,4.75,Calories 240
+Rajasthani Panchmel Dal,,Panchmel Dal,45,mins,20,mins,5,mins,"Indian, Rajasthani",Main Course,Vegetarian,Moderate,4.82,Calories 233
+Punjabi Chana Masala,chana-masala-chole-recipe-punjabi-chole-masala,Chana Masala | Chole Recipe | Punjabi Chole Masala,,,45,mins,45,mins,North Indian,Main Course,"Gluten Free, Vegan",Moderate,4.92,Calories 239
+Vegan Chickpea Curry (Easy),chana-masala-chole-recipe-punjabi-chole-masala,Chana Masala | Chole Recipe | Punjabi Chole Masala,,,45,mins,45,mins,North Indian,Main Course,"Gluten Free, Vegan",Moderate,4.92,Calories 239
+South Indian Chana Masala,,Chickpea Curry Recipe (Indian),,,30,mins,30,mins,South Indian,Main Course,,,4.77,Calories 351
+Homestyle Easy Chana Masala,instant-pot-chana-masala,Instant Pot Chana Masala,,,45,mins,45,mins,"North Indian, Punjabi",Main Course,"Gluten Free, Vegan",Easy,5,Calories 320
+Pindi Chole,pindi-chole-pindi-chana,Pindi Chole | Pindi Chana,20,mins,10,mins,30,mins,"North Indian, Punjabi",Main Course,"Vegan, Vegetarian",Moderate,5,Calories 420
